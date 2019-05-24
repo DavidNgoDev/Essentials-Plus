@@ -10,6 +10,7 @@ Plus installer is a bash script which installs some of the most populaur pentest
 3. TheFatRat
 4. Blackeye
 5. PhishX
+6. User Recon
 
 ## Credits
 * https://github.com/v1s1t0r1sh3r3/airgeddon
@@ -17,3 +18,4 @@ Plus installer is a bash script which installs some of the most populaur pentest
 * https://github.com/WeebSec/PhishX
 * https://github.com/thelinuxchoice/blackeye
 * https://github.com/Screetsec/TheFatRat
+* https://github.com/thelinuxchoice/userrecon
