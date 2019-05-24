@@ -32,6 +32,7 @@ git clone https://github.com/Screetsec/TheFatRat.git
 cd TheFatRat
 chmod +x setup.sh && ./setup.sh
 cd ..
+git clone https://github.com/thelinuxchoice/userrecon.git
 git clone https://github.com/WeebSec/PhishX.git
 cd PhishX
 chmod +x installer.sh
