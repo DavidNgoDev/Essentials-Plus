@@ -32,6 +32,9 @@ git clone https://github.com/Screetsec/TheFatRat.git
 cd TheFatRat
 chmod +x setup.sh && ./setup.sh
 cd ..
+git cloen https://github.com/thelinuxchoice/blackeye.git
+cd blackeye
+bash blackeye.sh
 git clone https://github.com/WeebSec/PhishX.git
 cd PhishX
 chmod +x installer.sh
