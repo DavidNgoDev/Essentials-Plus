@@ -22,7 +22,7 @@ echo " * Installation menu                                                      
 echo " **************************************************************************** "
 
 mkdir Plus-Installer
-
+cd Plus-Installer
 git clone --depth 1 https://github.com/v1s1t0r1sh3r3/airgeddon.git:Plus-Installer
 git clone https://github.com/thelinuxchoice/blackeye:Plus-Installer
 
